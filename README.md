@@ -1,6 +1,6 @@
 # NLW COPA
 
-![preview](./.github/preview.png)
+<img src="https://gabrielarroyoc.github.io/nlw-copa/">
 
 > Trilha Explorer
 
